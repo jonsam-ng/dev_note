@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "e01f62fa8b8e2e1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "79fb2fae9c357605",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React Hooks 学习笔记/hooks基础.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a3435547cacbe3fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React Hooks 学习笔记/hooks基础.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf6655cd1afe25f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c17d8a5d6235a363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96839009be394927",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f570cdcb39874b6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02dfbce269e1c887",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ba9877454f2d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94180c8ad60dc386",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks 学习笔记/hooks基础.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "React Hooks 学习笔记/hooks基础.md",
+    "React Hooks 学习笔记/从源码看hooks使用.md",
+    "React Hooks 学习笔记/自定义hooks.md",
+    "React Hooks 学习笔记/hooks使用技巧.md",
+    "code review 总结(1).md",
+    "DEV NOTE 目录.md",
+    "React Hooks 学习笔记.md",
+    "README.md",
+    "组件主题设计探究.md",
+    "浏览器渲染原理.md"
+  ]
+}
