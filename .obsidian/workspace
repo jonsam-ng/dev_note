@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "79fb2fae9c357605",
+        "id": "f2d2215f563f5c6b",
         "type": "leaf",
+        "dimension": 51.68384879725087,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "组件库 Getting Start 总结/组件库 Getting Start 总结.md",
+            "file": "react 源码阅读/任务调度/scheduleWork调度更新.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "6cfa9a64769ea3e3",
+        "id": "419644fe881a049e",
         "type": "leaf",
+        "dimension": 48.31615120274914,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "组件库 Getting Start 总结/组件库 Getting Start 总结.md",
+            "file": "react 源码阅读/任务调度/scheduleWork调度更新.md",
             "mode": "preview"
           }
         }
@@ -51,7 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:<code src=\"./demo/basic.tsx\" />",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -75,7 +82,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组件库 Getting Start 总结/组件库 Getting Start 总结.md"
+                "file": "react 源码阅读/任务调度/scheduleWork调度更新.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -87,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "组件库 Getting Start 总结/组件库 Getting Start 总结.md",
-    "组件库 Getting Start 总结/image/Pasted image 20210128181358.png",
-    "生成组件目录结构.md",
-    "组件库 Getting Start 总结/image/Pasted image 20210114195218.png",
-    "组件库 Getting Start 总结/Pasted image 20210114195218.png",
-    "DEV NOTE 目录.md",
-    "组件库 Getting Start 总结.md",
-    "React Hooks 学习笔记.md",
-    "组件主题设计探究.md",
-    "README.md"
+    "react 源码阅读/任务调度/scheduleWork调度更新.md",
+    "react 源码阅读/创建更新/ReactDOM.render().md",
+    "react 源码阅读/创建更新/ExpirationTime,context的计算方法.md",
+    "react 源码阅读/任务调度/Untitled.md",
+    "react 源码阅读/React 源码阅读.md",
+    "react 源码阅读/assets/images/Pasted image 20210207152205.png",
+    "ExpirationTime的计算方法.md",
+    "react 源码阅读/Untitled.md",
+    "code review 总结(1).md",
+    "DEV NOTE 目录.md"
   ]
 }
