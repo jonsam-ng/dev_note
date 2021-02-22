@@ -6,7 +6,7 @@
       {
         "id": "f2d2215f563f5c6b",
         "type": "leaf",
-        "dimension": 51.68384879725087,
+        "dimension": 49.69072164948454,
         "active": true,
         "state": {
           "type": "markdown",
@@ -19,7 +19,7 @@
       {
         "id": "419644fe881a049e",
         "type": "leaf",
-        "dimension": 48.31615120274914,
+        "dimension": 50.30927835051546,
         "state": {
           "type": "markdown",
           "state": {
@@ -101,13 +101,13 @@
   "lastOpenFiles": [
     "react 源码阅读/任务调度/scheduleWork调度更新.md",
     "react 源码阅读/创建更新/ReactDOM.render().md",
+    "DEV NOTE 目录.md",
+    "README.md",
+    "组件库 Getting Start 总结/组件库 Getting Start 总结.md",
     "react 源码阅读/创建更新/ExpirationTime,context的计算方法.md",
     "react 源码阅读/任务调度/Untitled.md",
     "react 源码阅读/React 源码阅读.md",
     "react 源码阅读/assets/images/Pasted image 20210207152205.png",
-    "ExpirationTime的计算方法.md",
-    "react 源码阅读/Untitled.md",
-    "code review 总结(1).md",
-    "DEV NOTE 目录.md"
+    "ExpirationTime的计算方法.md"
   ]
 }
